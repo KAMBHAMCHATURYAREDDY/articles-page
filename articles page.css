@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 120vh;
+
+}
+
+.home-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 15px;
+    font-weight: bold;
+}
+
+.home-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+    font-weight: 100;
+}
+
+.home-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 25px;
+    width: 200px;
+    height: 170px;
+    margin: 15px;
+    text-align: center;
+}
+
+.crs {
+    padding: 15px;
+    margin: 15px;
+}
+
+.ullist {
+    list-style-type: circle;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+}
+
+.btm1 {
+    color: white;
+    background-color: #225db0;
+    border-color: white;
+    border-width: 1px;
+    text-align: center;
+    width: 108px;
+    font-family: "Roboto";
+}
